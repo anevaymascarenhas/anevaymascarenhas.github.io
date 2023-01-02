@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "//anevaymascarenhas.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Anevay's Portfolio"
 # Main Menu
 [[menu.main]]
 name = "Home"
