@@ -2,34 +2,46 @@
 enable: true
 topTitle: My Resume
 title: >
-  ## My Expertises
-
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  ## 
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+
 tab1Name: Education
+tab2Name: Certifications
 tab1Target: education
+tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### BAMMC 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Bachelor of Arts in Multimedia & Mass Communication in Advertising 
+      from St. Paul's Institute of Communication.
+    time: 2019-2022
+
+experience:
   - content: >
-      #### Master in Arts
+      #### Fundamentals of Digital Marketing
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Google Digital Unlocked.
+    time: 2020
   - content: >
-      #### Master in Arts
+      #### Ultimate Adobe Photoshop training
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      From Beginner to Pro by Cristian Doru Barin - Udemy
+    time: 2021
   - content: >
-      #### Master in Arts
+      #### Sound and Film Editing 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      From St. Paul's Institute of Communication Education.
+    time: 2022
+  - content: >
+      #### Theory of Music
 
+      Grades 2-6 from Trinity College London.
+    time: 2017-2022
+  - content: >
+      #### Piano
+
+      Grades 1-4 from Trinity College London.
+    time: 2017-2020
