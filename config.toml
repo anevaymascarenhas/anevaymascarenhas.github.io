@@ -8,10 +8,10 @@ title = "Anevay's Portfolio"
 name = "Home"
 url = "#home"
 weight = 1
-[[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
+# [[menu.main]]
+# name = "About"
+# url = "#about"
+# weight = 2
 [[menu.main]]
 name = "Service"
 url = "#service"
