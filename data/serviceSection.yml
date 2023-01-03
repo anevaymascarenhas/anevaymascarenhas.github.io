@@ -4,42 +4,36 @@ topTitle: Working Area
 title: >
   ## Creative Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Offering a wide range of Creative Media design services.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Logo Design & Branding
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Helping brands create logos and identities that represents their vision 
+      and mission using unique designs.
+    image: images/service/branding.svg
+  - content: >
+      #### Social Media Design
+
+      Creating personalised social media design for optimal visibility 
+      across platforms like Facebook, Instagram & LinkedIn.
     image: images/service/ui-ux.svg
+  - content: >
+      #### Social Media Management
+
+      Creating, managing and optimising Social Media presence
+      accross Facebook, Instagram & LinkedIn.
+    image: images/service/creative.svg
   - content: >
       #### Web Development 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Creating unique product landing pages and portfolio websites
+      ideal for small to medium businesses 
+      looking to get started.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Miscellaneous Design
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Print Banners, Print Posters, Website Banners, Flyers, Stationery, Merchandise,  
+      Package design, Photo and Video Editing.
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

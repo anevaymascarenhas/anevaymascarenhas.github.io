@@ -28,10 +28,10 @@ weight = 5
 name = "Skills"
 url = "#skills"
 weight = 6
-[[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 8
+# [[menu.main]]
+# name = "Contact"
+# url = "#contact"
+# weight = 8
 
 # Sitemap Menu
 [[menu.sitemap]]
