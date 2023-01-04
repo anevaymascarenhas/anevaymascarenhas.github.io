@@ -22,7 +22,7 @@ service:
       #### Social Media Management
 
       Creating, managing and optimising Social Media presence
-      accross Facebook, Instagram & LinkedIn.
+      across Facebook, Instagram & LinkedIn.
     image: images/service/creative.svg
   - content: >
       #### Web Development 
