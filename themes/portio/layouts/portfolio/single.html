@@ -66,6 +66,11 @@
           <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
         </div>
         {{ .Content }}
+        {{ range $key, $value := .Params.examples }}
+        <div class="case-details-thumb mb-5">
+            <img src="{{ $value | absURL }}" alt="case-details" />
+        </div>
+        {{ end }}
       </div>
     </div>
     <div class="row">

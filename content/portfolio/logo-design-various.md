@@ -7,3 +7,4 @@ client: Various
 shortDescription: Designed Logos for various clients.
 
 ---
+
