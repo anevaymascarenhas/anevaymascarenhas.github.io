@@ -1,10 +1,10 @@
 ---
-title: Graphic Design - Atlas India
-date: 2020-06-13T12:49:27.000+06:00
-thumbnail: images/portfolio/atlas_mug.webp
-service: Merchandise Design, Logo Design
-client: Atlas India
-shortDescription: Revamped logo and designed a mug 
-    for Atlas India's employees and clients.
+title: Mug Design
+date: 2021-03-13T12:49:27.000+06:00
+thumbnail: images/portfolio/mug1.webp
+service: Mug Design, Graphic Design
+client: Various
+shortDescription: Custom designs to be printed on Mugs.
+examples: [images/portfolio/mug2.webp, images/portfolio/mug3.webp,images/portfolio/mug4.webp]
     
 ---
