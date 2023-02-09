@@ -63,12 +63,12 @@
         <!--   </div> -->
         <!-- </div> -->
         <div class="case-details-thumb mb-5">
-          <img src="{{ .Params.thumbnail | absURL }}" alt="case-details" />
+          <img src="{{ .Params.thumbnail | absURL }}" class="portfolio-item-thumb" alt="case-details" />
         </div>
         {{ .Content }}
         {{ range $key, $value := .Params.examples }}
         <div class="case-details-thumb mb-5">
-            <img src="{{ $value | absURL }}" alt="case-details" />
+            <img src="{{ $value | absURL }}" class="portfolio-item-thumb" alt="case-details" />
         </div>
         {{ end }}
       </div>
