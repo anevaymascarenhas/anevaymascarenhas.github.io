@@ -8,3 +8,9 @@ shortDescription: Designed Logos for various clients.
 
 ---
 
+{{< youtube C1WefXMH2Ps >}}
+<!-- {{< youtube DdmAEjmjc1M >}} -->
+<!-- {{< youtube 5McXkP8ixbc >}} -->
+<!-- {{< youtube ClWMYQcZwQE >}} -->
+<!-- {{< youtube l1im-EfzeHI >}} -->
+<!-- {{< youtube TKpg-XECv5c >}} -->

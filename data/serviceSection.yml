@@ -7,33 +7,32 @@ title: >
   Offering a wide range of Creative Media design services.
 service:
   - content: >
-      #### Logo Design & Branding
-
-      Helping brands create logos and identities that represents their vision 
-      and mission using unique designs.
-    image: images/service/branding.svg
-  - content: >
-      #### Social Media Design
-
-      Creating personalised social media design for optimal visibility 
-      across platforms like Facebook, Instagram & LinkedIn.
-    image: images/service/ui-ux.svg
-  - content: >
       #### Social Media Management
 
       Creating, managing and optimising Social Media presence
       across Facebook, Instagram & LinkedIn.
     image: images/service/creative.svg
   - content: >
-      #### Web Development 
+      #### Social Media Design
 
-      Creating unique product landing pages and portfolio websites
-      ideal for small to medium businesses 
-      looking to get started.
+      Creating personalised visual design for optimal visibility 
+      across platforms like Facebook, Instagram & LinkedIn.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Logo Design & Branding
+
+      Helping brands create logos and identities that represents their vision 
+      and mission.
+    image: images/service/branding.svg
+  - content: >
+      #### Video Editing
+
+      Creating engaging video content for Instagram / Facebook Reels
+      and Youtube Shorts. Also videos for corporates and events.
     image: images/service/web.svg
   - content: >
       #### Miscellaneous Design
 
-      Print Banners, Print Posters, Website Banners, Flyers, Stationery, Merchandise,  
-      Package design, Photo and Video Editing.
+      Print Banners, Print Posters, Website Banners, Brochures, Flyers, Stationery, Merchandise,  
+      Package design, Photo Editing, CV & Presentation design.
     image: images/service/branding.svg
